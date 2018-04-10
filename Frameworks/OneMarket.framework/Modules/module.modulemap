@@ -1,0 +1,6 @@
+framework module OneMarket {
+    umbrella header "OneMarket.h"
+
+    export *
+    module * { export * }
+}

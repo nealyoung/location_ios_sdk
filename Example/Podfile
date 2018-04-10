@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+use_frameworks!
+
+pod 'OneMarket', :path => '../'
+
+target 'Example-Objc'
+target 'Example-Swift'

@@ -1,0 +1,16 @@
+PODS:
+  - OneMarket (0.1.2)
+
+DEPENDENCIES:
+  - OneMarket (from `../`)
+
+EXTERNAL SOURCES:
+  OneMarket:
+    :path: ../
+
+SPEC CHECKSUMS:
+  OneMarket: 70d2ab4e05d5861f74a218c7d11b46489801287c
+
+PODFILE CHECKSUM: a07a571d5245c0e1029850452a545f1c832fa2f2
+
+COCOAPODS: 1.4.0
