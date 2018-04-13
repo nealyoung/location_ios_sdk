@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'OneMarket'
-  s.version = '0.1.2'
+  s.version = '1.0.0'
   s.summary = 'OneMarket SDK for iOS'
   s.homepage = 'https://developer.onemarketnetwork.com'
   s.license = {

@@ -1,5 +1,5 @@
 PODS:
-  - OneMarket (0.1.2)
+  - OneMarket (1.0.0)
 
 DEPENDENCIES:
   - OneMarket (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  OneMarket: 70d2ab4e05d5861f74a218c7d11b46489801287c
+  OneMarket: 83e71744512fa502f899508a8f291b8494747a2c
 
 PODFILE CHECKSUM: a07a571d5245c0e1029850452a545f1c832fa2f2
 
